@@ -69,9 +69,3 @@ Dominic
 - **Timeline**: Clear 5-7 day commitment
 - **Daily updates**: Shows communication style
 
-## Notes for Future Proposals
-
-- Expanded from ~130 words to ~350 words (appropriate for hourly/intermediate job)
-- Added methodology section - client values accuracy
-- Mentioned "tourism board" experience - adds credibility
-- Color-coded formatting offer - shows Excel proficiency
