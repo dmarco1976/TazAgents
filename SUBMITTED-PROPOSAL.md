@@ -59,13 +59,3 @@ Dominic
 
 ---
 
-## Key Differentiators Used
-
-- **Proof of work**: 745 agents already collected (up from 444)
-- **GitHub link**: https://github.com/dmarco1976/TazAgents
-- **Methodology breakdown**: Shows professional process
-- **QA process**: Demonstrates attention to detail
-- **Smart questions**: Opens dialogue
-- **Timeline**: Clear 5-7 day commitment
-- **Daily updates**: Shows communication style
-
