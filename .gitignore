@@ -1,7 +1,6 @@
 # Data files (full dataset - use SAMPLE for demo)
-# Uncomment these if you don't want to commit full data
-# data/tasmania-agents-COMPLETE.csv
-# data/tasmania-agents-official-registry.csv
+data/tasmania-agents-COMPLETE.csv
+data/tasmania-agents-official-registry.csv
 
 # Python
 __pycache__/
