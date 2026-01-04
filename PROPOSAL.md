@@ -5,7 +5,7 @@
 ```
 Hi there,
 
-I've already started on this. I have 444 Tasmania real estate agents collected
+I've already started on this. I have 745 Tasmania real estate agents collected
 from LJ Hooker, 4one4 Property Co, and other agencies across Hobart, Devonport,
 St Helens, and Wynyard.
 
