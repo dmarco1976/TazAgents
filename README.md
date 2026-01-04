@@ -23,7 +23,7 @@ Comprehensive database of active real estate sales agents in Tasmania, Australia
 
 ## Sample Data
 
-See `sample-data.csv` for a preview of the collected data.
+See `sample-data.csv` for a preview of the collected data. **This is real data** - not placeholder or mock data - demonstrating the quality and format of the full dataset.
 
 ## Methodology
 
