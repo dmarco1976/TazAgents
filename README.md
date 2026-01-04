@@ -4,7 +4,7 @@ Comprehensive database of active real estate sales agents in Tasmania, Australia
 
 ## Current Progress
 
-- **444 agents** collected and verified
+- **745 agents** collected and verified
 - Sources: LJ Hooker, 4one4 Property Co, and others
 - Locations: Hobart, Devonport, St Helens, Wynyard
 
