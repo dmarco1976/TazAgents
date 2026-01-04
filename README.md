@@ -86,9 +86,8 @@ Contact information was gathered from publicly available sources:
 ### Data Files
 | File | Records | Description |
 |------|---------|-------------|
-| `tasmania-agents-COMPLETE.csv` | 1,600 | Final merged dataset with contact info |
-| `tasmania-agents-official-registry.csv` | 1,600 | Raw extraction from official registry |
-| `tasmania-real-estate-agents.csv` | 632 | Web-scraped contact data |
+| `SAMPLE-tasmania-agents.csv` | 50 | Sample records with contact info (included) |
+| `tasmania-agents-COMPLETE.csv` | 1,600 | Full dataset (not in repo - available upon request) |
 
 ### Source Documents
 | File | Description |
