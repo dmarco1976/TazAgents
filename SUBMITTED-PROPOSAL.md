@@ -41,7 +41,7 @@ I'm excited to apply for your Tasmania real estate agents data project. With my 
 I've already compiled 745 verified agents from Hobart, Devonport, and other key regions. You can review a sample of my work here: https://github.com/dmarco1976/TazAgents (GitHub link). The current dataset includes Agent Name, Agency, Location, and Contact Info - I'll add the required Agency Website and Source URL fields next.
 
 **Timeline & Availability:**
-- 5-7 business days for final delivery
+- 1-2 business days for final delivery
 - Daily progress updates via Upwork messages
 - Flexible to adjust based on your feedback
 
