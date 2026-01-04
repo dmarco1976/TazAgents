@@ -9,7 +9,7 @@ I've already started on this. I have 444 Tasmania real estate agents collected
 from LJ Hooker, 4one4 Property Co, and other agencies across Hobart, Devonport,
 St Helens, and Wynyard.
 
-You can preview my work here: [GitHub repo link]
+You can preview my work here: https://github.com/dmarco1976/TazAgents
 
 Current columns: Agent Name, Agency, Role, Phone, Email, Location. I'll add
 Agency Website URL and Source URL as you specified, plus verify all entries
