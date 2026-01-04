@@ -18,7 +18,7 @@ for duplicates and missing data.
 I'm building my Upwork portfolio, so I'm prioritizing accuracy over speed—your
 review matters more than this invoice.
 
-Timeline: I can deliver the complete, verified spreadsheet within 5-7 days.
+Timeline: I can deliver the complete, verified spreadsheet within 1-2 days.
 
 Questions before I continue:
 - Do you need agents from property management, or sales only?
